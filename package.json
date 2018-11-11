@@ -2,7 +2,7 @@
   "name": "foxy",
   "displayName": "Foxy Theme",
   "description": "A simple theme.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "jet8a",
   "engines": {
     "vscode": "^1.28.0"
