@@ -3,7 +3,7 @@
 [![version](https://vsmarketplacebadge.apphb.com/version/jet8a.foxy.svg)](https://marketplace.visualstudio.com/items?itemName=jet8a.foxy)
 [![rating](https://vsmarketplacebadge.apphb.com/rating-star/jet8a.foxy.svg)](https://marketplace.visualstudio.com/items?itemName=jet8a.foxy)
 
-[A simple syntax and UI theme for Visual Studio Code based on 4 colors.](https://marketplace.visualstudio.com/items?itemName=jet8a.foxy)
+[A simple syntax and UI theme for Visual Studio Code based on 4 foxy colors.](https://marketplace.visualstudio.com/items?itemName=jet8a.foxy)
 
 ## Colors
 

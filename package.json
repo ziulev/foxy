@@ -1,7 +1,7 @@
 {
   "name": "foxy",
   "displayName": "Foxy Theme",
-  "description": "A simple theme.",
+  "description": "A simple syntax and UI theme based on 4 foxy colors",
   "version": "0.2.0",
   "publisher": "jet8a",
   "engines": {
