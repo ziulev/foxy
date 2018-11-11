@@ -1,0 +1,28 @@
+{
+  "name": "foxy",
+  "displayName": "Foxy Theme",
+  "description": "A simple theme.",
+  "version": "0.0.1",
+  "publisher": "Denis Zyulev",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://github.com/jet8a/foxy",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jet8a/foxy"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Foxy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/foxy-color-theme.json"
+      }
+    ]
+  }
+}

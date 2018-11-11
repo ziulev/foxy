@@ -1,0 +1,197 @@
+{
+  "name": "Foxy",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1B1B1E",
+    "activityBarBadge.background": "#1B1B1E",
+    "sideBarTitle.foreground": "#727272",
+    "statusBar.background": "#1B1B1E",
+    "statusBar.noFolderBackground": "#1B1B1E",
+    "statusBar.foreground": "#727272"
+  },
+  "tokenColors": [
+    {
+      "name": "Grass",
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#73b362"
+      }
+    },
+    {
+      "name": "Grizzly",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#585858"
+      }
+    },
+    {
+      "name": "Asphalt",
+      "scope": [
+        "editor.foreground",
+        "variable",
+        "string constant.other.placeholder",
+        "punctuation",
+        "punctuation.definition.tag",
+        "punctuation.section.embedded",
+        "constant.other.color",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "source.css support.type.property-name",
+        "source.sass support.type.property-name",
+        "source.scss support.type.property-name",
+        "source.less support.type.property-name",
+        "source.stylus support.type.property-name",
+        "source.postcss support.type.property-name",
+        "markup.raw.block.fenced.markdown",
+        "variable.language.fenced.markdown",
+        "punctuation.section.class.end",
+        "source.sass keyword.control",
+        "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
+        "meta.block variable.other",
+        "support.type",
+        "meta.tag"
+      ],
+      "settings": {
+        "foreground": "#bdbdbd"
+      }
+    },
+    {
+      "name": "Sun",
+      "scope": [
+        "storage.modifier",
+        "support.class",
+        "storage.type",
+        "entity.name.tag",
+        "meta.tag.sgml",
+        "markup.deleted.git_gutter",
+        "entity.name.module.js",
+        "variable.import.parameter.js",
+        "variable.other.class.js",
+        "markdown.heading",
+        "markup.heading | markup.heading entity.name",
+        "markup.heading.markdown punctuation.definition.heading.markdown",
+        "keyword"
+      ],
+      "settings": {
+        "foreground": "#cca853"
+      }
+    },
+    {
+      "name": "Fire",
+      "scope": [
+        "keyword.control",
+        "constant.other.color",
+        "punctuation.separator.inheritance.php",
+        "punctuation.definition.tag.html",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "support.other.variable",
+        "string.other.link",
+        "invalid",
+        "invalid.illegal",
+        "markup.deleted",
+        "source.js constant.other.object.key.js string.unquoted.label.js"
+      ],
+      "settings": {
+        "foreground": "#FF766B"
+      }
+    },
+    {
+      "name": "Moon",
+      "scope": [
+        "entity.name.function",
+        "meta.function-call",
+        "variable.function",
+        "support.function",
+        "keyword.other.special-method",
+        "entity.other.attribute-name",
+        "variable.language",
+        "constant.other.symbol",
+        "constant.other.key",
+        "entity.other.inherited-class",
+        "markup.heading",
+        "markup.inserted.git_gutter",
+        "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+        "source.json meta.structure.dictionary.json support.type.property-name.json",
+        "entity.name",
+        "support.type",
+        "support.orther.namespace.use.php",
+        "meta.use.php",
+        "support.other.namespace.php",
+        "markup.changed.git_gutter",
+        "support.type.sys-types",
+        "text.html.basic entity.other.attribute-name.html",
+        "text.html.basic entity.other.attribute-name",
+        "entity.other.attribute-name.class",
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
+        "constant.other.reference.link.markdown",
+        "entity.name.method.js",
+        "meta.class-method.js entity.name.function.js",
+        "variable.function.constructor",
+        "markup.inserted",
+        "markup.changed",
+        "string.regexp",
+        "constant.character.escape",
+        "tag.decorator.js entity.name.tag.js",
+        "tag.decorator.js punctuation.definition.tag.js"
+      ],
+      "settings": {
+        "foreground": "#51AFBC"
+      }
+    },
+    {
+      "name": "URL",
+      "scope": ["*url*", "*link*", "*uri*"],
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "Fox",
+      "scope": [
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
+        "constant.numeric",
+        "constant.language",
+        "support.constant",
+        "constant.character",
+        "constant.escape",
+        "variable.parameter",
+        "keyword.other.unit",
+        "keyword.other",
+        "markup.underline",
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
+        "text.html.markdown markup.inline.raw.markdown",
+        "text.html.markdown",
+        "punctuation.definition.list_item.markdown",
+        "markup.italic"
+      ],
+      "settings": {
+        "foreground": "#000"
+      }
+    },
+    {
+      "scope": "token.info-token",
+      "settings": {
+        "foreground": "#6796e6"
+      }
+    },
+    {
+      "scope": "token.warn-token",
+      "settings": {
+        "foreground": "#cd9731"
+      }
+    },
+    {
+      "scope": "token.error-token",
+      "settings": {
+        "foreground": "#f44747"
+      }
+    },
+    {
+      "scope": "token.debug-token",
+      "settings": {
+        "foreground": "#b267e6"
+      }
+    }
+  ]
+}
