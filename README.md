@@ -11,6 +11,8 @@ Color names provided by [Name That Colour](http://chir.ag/projects/name-that-col
 - ![#e06c75](https://placehold.it/15/e06c75/000000?text=+) Sunglo
 - ![#51afbc](https://placehold.it/15/56b6c2/000000?text=+) Fountain Blue
 
+![Foxy VSCODE Theme](/docs/screenshot.png?raw=true)
+
 ## Contribute
 
 Themes can always be improved and tweaked so please feel free to log issues and
