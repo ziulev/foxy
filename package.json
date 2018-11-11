@@ -3,7 +3,7 @@
   "displayName": "Foxy Theme",
   "description": "A simple theme.",
   "version": "0.0.1",
-  "publisher": "Denis Zyulev",
+  "publisher": "jet8a",
   "engines": {
     "vscode": "^1.28.0"
   },
