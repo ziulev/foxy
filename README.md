@@ -1,10 +1,10 @@
 # Foxy
 
-_A simple syntax and UI theme for Visual Studio Code based on 4 colors._
+A simple syntax and UI theme for Visual Studio Code based on 4 colors.
 
-## Colours
+## Colors
 
-Colour names provided by [Name That Colour](http://chir.ag/projects/name-that-color/) website.
+Color names provided by [Name That Colour](http://chir.ag/projects/name-that-color/) website.
 
 - ![#cca853](https://placehold.it/15/5c6370/000000?text=+) Roti
 - ![#d19a66](https://placehold.it/15/d19a66/000000?text=+) Bittersweet
