@@ -1,5 +1,5 @@
 # Foxy
-
+[![installs](https://vsmarketplacebadge.apphb.com/installs/jet8a.foxy.svg)](https://marketplace.visualstudio.com/items?itemName=jet8a.foxy)
 [![version](https://vsmarketplacebadge.apphb.com/version/jet8a.foxy.svg)](https://marketplace.visualstudio.com/items?itemName=jet8a.foxy)
 [![rating](https://vsmarketplacebadge.apphb.com/rating-star/jet8a.foxy.svg)](https://marketplace.visualstudio.com/items?itemName=jet8a.foxy)
 
